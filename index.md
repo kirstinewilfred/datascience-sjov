@@ -11,3 +11,5 @@ Her skal da også være et billede
 
 ## Hvad med emojis
 :dash:
+:zap:
+:dolphin:
