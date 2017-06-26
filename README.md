@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+##README til datascience-sjov
 
-You can use the [editor on GitHub](https://github.com/kirstinewilfred/datascience-sjov/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dette er mit første forsøg med en github og med at lave en side hjemmeside, som samtidig er publiceret med github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jeg bruger Markdown syntaks til mine sider.
 
 ### Markdown
 
