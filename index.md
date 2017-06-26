@@ -5,4 +5,4 @@ Her sker der en masse på vores flotte site.
 2. Det skal være nummererede lister
 
 Her skal da også være et billede 
-![Her er et billede af en frø](/frø.png)
+![Her er et billede af en frø](https://github.com/kirstinewilfred/datascience-sjov/blob/master/fr%C3%B8.jpg)
